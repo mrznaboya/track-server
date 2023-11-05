@@ -2,7 +2,9 @@
 
 Hey, my dudes! I'm learning to make an app. This is a track-server app.
 
-I have ignored index.js in my src folder for security purposes so please supply your own ngrok link.
+I have ignored index.js in my src folder for security purposes so please supply your own mongodb connection string.
+
+create src folder then index.js
 
 ```
 const express = require("express");
