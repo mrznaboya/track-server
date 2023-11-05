@@ -13,7 +13,7 @@ const mongoose = require("mongoose");
 const app = express();
 
 const mongoUri =
-  "<your mongodb connection string>;
+  "<your mongodb connection string>";
 mongoose.connect(mongoUri, {
 
 });
