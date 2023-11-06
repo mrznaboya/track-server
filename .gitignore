@@ -34,5 +34,8 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-#ignoring index.js
+#ignoring files
 src/index.js
+src/middlewares/requireAuth.js
+src/models/User.js
+src/routes/authRoutes.js
