@@ -35,9 +35,9 @@ yarn-error.*
 *.tsbuildinfo
 
 #ignoring files
-src/index.js
-src/middlewares/requireAuth.js
-src/models/User.js
-src/models/Track.js
-src/routes/authRoutes.js
-src/routes/trackRoutes.js
+# src/index.js
+# src/middlewares/requireAuth.js
+# src/models/User.js
+# src/models/Track.js
+# src/routes/authRoutes.js
+# src/routes/trackRoutes.js
